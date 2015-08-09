@@ -14,6 +14,7 @@
 		E16535961B773E2800948012 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E16535951B773E2800948012 /* Images.xcassets */; };
 		E16535991B773E2800948012 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E16535971B773E2800948012 /* LaunchScreen.xib */; };
 		E16535A51B773E2800948012 /* gitDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E16535A41B773E2800948012 /* gitDemoTests.m */; };
+		E16535B01B77440400948012 /* demo.m in Sources */ = {isa = PBXBuildFile; fileRef = E16535AF1B77440400948012 /* demo.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		E165359E1B773E2800948012 /* gitDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E16535A31B773E2800948012 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E16535A41B773E2800948012 /* gitDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitDemoTests.m; sourceTree = "<group>"; };
+		E16535AE1B77440400948012 /* demo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = demo.h; sourceTree = "<group>"; };
+		E16535AF1B77440400948012 /* demo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = demo.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				E16535951B773E2800948012 /* Images.xcassets */,
 				E16535971B773E2800948012 /* LaunchScreen.xib */,
 				E16535881B773E2800948012 /* Supporting Files */,
+				E16535AE1B77440400948012 /* demo.h */,
+				E16535AF1B77440400948012 /* demo.m */,
 			);
 			path = gitDemo;
 			sourceTree = "<group>";
@@ -221,6 +226,7 @@
 			files = (
 				E16535911B773E2800948012 /* ViewController.m in Sources */,
 				E165358E1B773E2800948012 /* AppDelegate.m in Sources */,
+				E16535B01B77440400948012 /* demo.m in Sources */,
 				E165358B1B773E2800948012 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -416,6 +422,7 @@
 				E16535AA1B773E2800948012 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E16535AB1B773E2800948012 /* Build configuration list for PBXNativeTarget "gitDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +431,7 @@
 				E16535AD1B773E2800948012 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
