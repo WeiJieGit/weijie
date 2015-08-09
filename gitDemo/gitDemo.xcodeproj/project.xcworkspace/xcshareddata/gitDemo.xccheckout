@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7FCDED44-FF48-43EA-AB1F-6E8EE1CB0340</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F770DA292A37340E86C7D82A0A36F574840F9BEF</key>
+		<string>https://github.com/WeiJieGit/weijie.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gitDemo/gitDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F770DA292A37340E86C7D82A0A36F574840F9BEF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/WeiJieGit/weijie.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F770DA292A37340E86C7D82A0A36F574840F9BEF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F770DA292A37340E86C7D82A0A36F574840F9BEF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>weijie</string>
+		</dict>
+	</array>
+</dict>
+</plist>
