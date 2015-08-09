@@ -22,6 +22,7 @@
     NSLog(@"fdddf");
     
     NSLog(@"fdddf");
+     NSLog(@"fdddf");
 }
 
 - (void)didReceiveMemoryWarning {
